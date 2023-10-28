@@ -1,7 +1,7 @@
 [![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)](https://github.com/AddisuAmbaye)
 
 <h1 align="center">Hi 👋, I'm Addis</h1>
-<h3 align="center">Full-Stack web developer with a specialization in backend development. I have a strong passion for programming, problem-solving, and software development.</h3>
+<h3 align="center">Full-Stack web developer with a specialization in backend development, Have a strong passion for programming, problem-solving, and software development.</h3>
 <img align="right" alt="Coding" width="400" src ="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
                                                                                                                             
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=addisuambaye&label=Profile%20views&color=0e75b6&style=flat" alt="addisuambaye" /> </p>
@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **ML and Data science**
 
-- 👯 I’m looking to collaborate on **Machine learning projects**
+- 👯 I’m looking to collaborate on machine learning projects.
 
 - 💬 Ask me about **express**
 
