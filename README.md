@@ -13,7 +13,7 @@
 
 - 👯 I’m looking to collaborate on machine learning projects.
 
-- 💬 Ask me about **express**
+- 💬 Ask me about **Backend(node.js and django)**
 
 - 📫 How to reach me **addeson3@gmail.com**
 
