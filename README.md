@@ -64,9 +64,6 @@ src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AddisuAmbaye&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AddisuAmbaye&theme=tokyonight&hide_border=true"/>
-</p>
 
 ---
 
