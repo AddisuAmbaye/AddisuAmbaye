@@ -4,30 +4,30 @@
 
 <h3 align="center">
 Full-Stack Web Developer specializing in Backend Development <br/>
-Passionate about programming, problem-solving, and building scalable software.
+Passionate about building scalable software, solving problems, and learning new technologies.
 </h3>
 
 <img align="right" alt="Coding" width="400"
 src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
 <p align="left">
-<img src="https://komarev.com/ghpvc/?username=addisuambaye&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+<img src="https://komarev.com/ghpvc/?username=AddisuAmbaye&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 <p align="left">
-<a href="https://twitter.com/addis" target="_blank">
-<img src="https://img.shields.io/twitter/follow/addis?logo=twitter&style=for-the-badge" alt="Twitter Follow"/>
+<a href="https://twitter.com/addis">
+<img src="https://img.shields.io/twitter/follow/addis?logo=twitter&style=for-the-badge"/>
 </a>
 </p>
 
 ---
 
-### 👨‍💻 About Me
+## 👨‍💻 About Me
 
 - 🔭 Currently working on **Backend Systems**
 - 🌱 Learning **Machine Learning & Data Science**
-- 👯 Looking to collaborate on **ML Projects**
-- 💬 Ask me about **Node.js, Django, APIs, System Design**
+- 👯 Open to collaborating on **Machine Learning & Backend Projects**
+- 💬 Ask me about **Node.js, Django, APIs, Databases, System Design**
 - 📫 Reach me at **addeson3@gmail.com**
 - ⚡ Fun fact: **I’m 6'2"**
 
@@ -36,13 +36,15 @@ src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/
 ## 🌐 Connect With Me
 
 <p align="center">
-<a href="https://twitter.com/addis" target="_blank">
+<a href="https://twitter.com/addis">
 <img src="https://skillicons.dev/icons?i=twitter" height="50"/>
 </a>
-<a href="https://www.linkedin.com/in/addis-ambaye-02a598210/" target="_blank">
+
+<a href="https://www.linkedin.com/in/addis-ambaye-02a598210/">
 <img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
 </a>
-<a href="https://leetcode.com/addisada/" target="_blank">
+
+<a href="https://leetcode.com/addisada/">
 <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/leetcode.svg" height="45"/>
 </a>
 </p>
@@ -57,13 +59,30 @@ src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/
 
 ---
 
+## 📌 Featured Projects
+
+- 🚀 Scalable Backend APIs  
+- ⚙️ Distributed Systems & Microservices  
+- 🧠 Machine Learning Projects  
+- 🌐 Full Stack Web Applications  
+
+(Replace with your pinned repositories)
+
+---
+
 ## 📊 GitHub Stats
 
 <p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AddisuAmbaye&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AddisuAmbaye&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180em"
+src="https://github-readme-stats.vercel.app/api?username=AddisuAmbaye&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=AddisuAmbaye&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AddisuAmbaye&theme=tokyonight&hide_border=true"/>
+</p>
 
 ---
 
@@ -75,7 +94,15 @@ src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/
 
 ---
 
-## ✨ Quote I Like
+## 📈 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AddisuAmbaye&theme=tokyo-night&hide_border=true"/>
+</p>
+
+---
+
+## ✨ Favorite Quote
 
 <p align="center">
 <i>"First, solve the problem. Then, write the code."</i> — John Johnson
